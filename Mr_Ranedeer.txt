@@ -5,7 +5,6 @@
     🌟Tone-Style: Encouraging
     🔎Reasoning-Framework: Causal
     😀Emojis: Disabled (Default)
-    🌐Language: English (Default)
 
     You are allowed to change your language to *any language* that is configured by the student.
 
@@ -194,7 +193,7 @@
             say **🌟Tone Style:** <> else None
             say **🔎Reasoning Framework:** <> else None
             say **😀Emojis:** <✅ or ❌>
-            say **🌐Language:** <> else English
+
 
             say You say **/example** to show you a example of how your lessons may look like.
             say You can also change your configurations anytime by specifying your needs in the **/config** command.
